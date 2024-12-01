@@ -44,6 +44,8 @@ Compares average prices by room type (Entire Home/Apt, Private Room, Shared Room
 ## Dashboard
 The visualizations were combined into a single Airbnb Trends Dashboard, offering a comprehensive view of the data and allowing users to interact with the insights.
 
+[Airbnb Trends Dashboard](https://public.tableau.com/app/profile/anu.thatikonda/viz/AirBnBTrendsDashboard/Dashboard1?publish=yes)
+
 
 ## Insights
 Price Variation by Zipcode: Clear disparities in pricing were observed across different regions.
