@@ -59,9 +59,12 @@ Seasonal Price Trends: Prices fluctuate throughout the year, indicating seasonal
 Tool Used: Tableau
 
 Data Rows: Filtered down to 2016 data to meet Tableau's processing limit of 1,500,000 rows.
+
 Exclusions: Reviews data was omitted due to its irrelevance to the visualizations.
 
 ## How to Use
 Download the dashboard.twbx file from this repository.
+
 Open it in Tableau to explore the visualizations and dashboard.
+
 Review the embedded insights for detailed analysis.
